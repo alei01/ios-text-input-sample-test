@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
-options: "91674bdd1e1e61b9d8f3544705118119d4de4644c8e746518640ff503c3b06db"
-build_start_time: [1640255770, 375310897]
-build_end_time: [1640255775, 708445072]
-inputs:
-  "/Users/alexandrivanchenko/Downloads/myapp/myappTests/myappTests.swift": [1640255736, 235110998]

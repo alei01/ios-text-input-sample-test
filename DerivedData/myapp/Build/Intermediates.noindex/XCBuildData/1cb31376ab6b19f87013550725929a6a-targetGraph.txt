@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-myapp in myapp, no dependencies
-myappTests in myapp, depends on:
-myapp in myapp (explicit)
-myappUITests in myapp, depends on:
-myapp in myapp (explicit)
