@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "2c895cf7258331bd78fcb26112e3e3b47c59692778e8fa36b0244e3429dcf56d"
+build_start_time: [1640255793, 518756866]
+build_end_time: [1640255799, 179048061]
+inputs:
+  "/Users/alexandrivanchenko/Downloads/myapp/myapp/ContentView.swift": [1640255754, 55698394]
+  "/Users/alexandrivanchenko/Downloads/myapp/myapp/myappApp.swift": [1640255733, 811532497]

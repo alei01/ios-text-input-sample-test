@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c4ed396f7837219f2a309a3e6f84b2515f6ad2094bba5876c943a16af356f96d"
+    },
+    {
+      "guid" : "c4ed396f7837219f2a309a3e6f84b2510bdd91cb5b8ec4c3a0070d5423a056f7"
+    },
+    {
+      "guid" : "c4ed396f7837219f2a309a3e6f84b251d9c3cc7e2505fa43565220a06740839c"
+    }
+  ],
+  "containerPath" : "/Users/alexandrivanchenko/Downloads/myapp/myapp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Index/Build/Products",
+      "derivedDataPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/alexandrivanchenko/Downloads/myapp/DerivedData/myapp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
